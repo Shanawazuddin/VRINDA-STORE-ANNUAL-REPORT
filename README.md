@@ -70,4 +70,4 @@ ________________________________________
 2.	Navigate through the interactive charts and pivot tables to explore sales data, customer demographics, and order trends.
 ________________________________________
 ## Connect With Me
-If you found this project insightful or have suggestions, let’s connect on [Linkedin](www.linkedin.com/in/shanawaz474) 
+If you found this project insightful or have suggestions, let’s connect on [Linkedin](https://www.linkedin.com/in/shanawaz474/)
