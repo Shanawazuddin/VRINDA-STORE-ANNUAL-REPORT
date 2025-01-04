@@ -5,7 +5,7 @@
 ## Vrinda Store Sales Analysis
 This repository contains an interactive Excel dashboard analyzing sales, orders, and customer demographics for Vrinda Store in 2022. The dashboard uses pivot tables and visualizations to derive actionable insights and inform strategic decisions.
 ________________________________________
-Key Insights and Analysis
+## Key Insights and Analysis
 
 
 1️⃣ Sales and Orders Comparison
@@ -61,13 +61,13 @@ ________________________________________
 
 •	Opportunity: Focus on enhancing customer experience in states like Maharashtra and Karnataka and increasing engagement with men to balance demographic participation.
 ________________________________________
-Files Included
-1.	Vrinda_Sales_Dashboard.xlsx – The Excel file containing the interactive dashboard.
-2.	README.md – This documentation.
+## Files Included
+1.	[Vrinda_Sales_Dashboard.xlsx](https://github.com/Shanawazuddin/VRINDA-STORE-ANNUAL-REPORT/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
+2.	[README.md](https://github.com/Shanawazuddin/VRINDA-STORE-ANNUAL-REPORT/blob/main/README.md) 
 ________________________________________
-How to Use the Dashboard
+## How to Use the Dashboard
 1.	Open the Excel file.
 2.	Navigate through the interactive charts and pivot tables to explore sales data, customer demographics, and order trends.
 ________________________________________
-Connect With Me
-If you found this project insightful or have suggestions, let’s connect on www.linkedin.com/in/shanawaz474 
+## Connect With Me
+If you found this project insightful or have suggestions, let’s connect on [Linkedin](www.linkedin.com/in/shanawaz474) 
