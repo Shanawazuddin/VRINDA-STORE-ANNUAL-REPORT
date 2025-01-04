@@ -6,27 +6,39 @@ Key Insights and Analysis
 
 1️⃣ Sales and Orders Comparison
 A combined chart shows sales and order volumes over the months.
+
 •	Highest Sales Month: March with ₹19,28,066.00.
+
 •	Highest Orders Month: March.
 
 2️⃣ Customer Demographics
+
 •	Purchaser Analysis: Women contributed to 69% of the total orders, significantly outpacing men.
+
 •	Age and Gender Relationship: The majority of orders were placed by women aged 28-32, indicating this as a key target demographic.
 
 3️⃣ Order Status in 2022
+
 •	Delivered: 92.25%
+
 •	Cancelled: 2.72%
+
 •	Returned: 3.37%
+
 •	Refunded: 1.67%
 
 4️⃣ Top States by Sales
+
 •	Top 10 States: Maharashtra, Karnataka, Uttar Pradesh, Telangana, Tamil Nadu, Delhi, Kerala, West Bengal, Andhra Pradesh, and Haryana.
+
 •	Top Contributor: Maharashtra with ₹29,90,221.00.
 
 5️⃣ Channel Performance
+
 •	Best Performing Channel: Amazon with ₹75,19,933.00.
 
 6️⃣ Category Performance
+
 •	Highest-Selling Category: Sets with ₹1,05,07,546.00.
 ________________________________________
 ## Conclusion
