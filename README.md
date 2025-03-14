@@ -68,6 +68,3 @@ ________________________________________
 ## How to Use the Dashboard
 1.	Open the Excel file.
 2.	Navigate through the interactive charts and pivot tables to explore sales data, customer demographics, and order trends.
-________________________________________
-## Connect With Me
-If you found this project insightful or have suggestions, let’s connect on [Linkedin](https://www.linkedin.com/in/shanawaz474/)
